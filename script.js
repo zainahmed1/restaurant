@@ -8,15 +8,15 @@ let restaurant = {
 
     },
     ownerDetail: {
-        name: "",
-        fatherName: "",
-        dateOfBirth: "",
+        name: "John",
+        fatherName: "Albert",
+        dateOfBirth: "20/06/1978",
         contact: "0324-5678920",
-        email: "@gmail.com",
+        email: "JohnAl@gmail.com",
 
     },
 
-    restaurantEmail: "Kebabistan123@gmail.com",
+    restaurantEmail: " kebabistanpk@gmail.com",
     webSite: "www.Kebabistan.com",
     restaurantContact: "(051) 111 3333 444",
     quantityOfVaitors: 200,
@@ -35,8 +35,8 @@ let restaurant = {
         }
     },
     mentor: {
-        mentor: "Arshad Bin Ali",
-        mentor: "Shujauddin",
+        seniorMentor: "Arshad Bin Ali",
+        juniorMentor: "Shujauddin",
     },
     operationManagersOrDesigner: {
         operationManager: {
@@ -372,29 +372,30 @@ let restaurant = {
                         greenSalad: "60 Rs",
                         Raita: "60 Rs",
                     },
-                    tandoor:{
-                        kebabistanSpecialDilWalaNan:"40 Rs",
-                        garlicNan:"30 Rs",
-                        plainNan:"20 Rs",
+                    tandoor: {
+                        kebabistanSpecialDilwalaNan: "40 Rs",
+                        garlicNan: "30 Rs",
+                        plainNan: "20 Rs",
                         puriParatha: "30 Rs",
                     },
-                    specialities:{
-                        hanjuKebabMuttonkebabs:"1000 Rs",
-                        kastooriBoti:"1200 Rs",
-                        chandonkebab:"1300 Rs",
-                        fishTikka:"800 Rs",
-                        achariBoti:"700 Rs",
-                        specialGrill:"900 Rs",
-                        specialPlatter:"800 Rs",
-                        chulluKebab:"400 Rs",
-                        reshmiHandi:"1000 Rs",
-                        desiAngethi:"1600 Rs",
-                        kebabistanSpecialPlatter:"1500 Rs",
-                        kebabistanSpecialGrill:"2000 Rs",
+                    specialities: {
+                        hanjuKebabMuttonkebabs: "1000 Rs",
+                        kastooriBoti: "1200 Rs",
+                        chandonkebab: "1300 Rs",
+                        fishTikka: "800 Rs",
+                        achariBoti: "700 Rs",
+                        specialGrill: "900 Rs",
+                        specialPlatter: "800 Rs",
+                        chulluKebab: "400 Rs",
+                        reshmiHandi: "1000 Rs",
+                        desiAngethi: "1600 Rs",
+                        kebabistanSpecialPlatter: "1500 Rs",
+                        kebabistanSpecialGrill: "2000 Rs",
                     },
 
-                }
-            }
+                },
+                events: ["14 August", "25 September", "Christmas", "Restaurant Anniversary", "23 March", "Eid-ul-Fitr"],
+            },
         },
 
     },
